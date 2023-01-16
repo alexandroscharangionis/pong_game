@@ -18,3 +18,7 @@ class Ball(Turtle):
     def bounce_y(self):
        # Multiplying by -1 always reverses direction on Y axis (bounce effect)
         self.y_move *= -1
+
+    def bounce_x(self):
+       # Multiplying by -1 always reverses direction on X axis (bounce effect)
+        self.x_move *= -1
