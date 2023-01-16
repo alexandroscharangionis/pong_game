@@ -1,1 +1,1 @@
-# pong_game
+# Simple 2-player Pong game made with the Turtle module
